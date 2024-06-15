@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task_01", "Task_01\Task_01.pyproj", "{0D847078-2E07-414A-841F-709A173CE72D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task_02", "Task_02\Task_02.pyproj", "{52C19FAD-C5A4-452A-B9A2-245BC86CB7E4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task_03", "Task_03\Task_03.pyproj", "{A25C921C-5C26-4CED-B3ED-BF7CF72F7552}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task_04", "Task_04\Task_04.pyproj", "{7D167776-890F-4EE6-BC76-6BB2C30E8A12}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task_05", "Task_05\Task_05.pyproj", "{3FB78ABC-590B-4DA6-9FB4-7448AB30B5C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D847078-2E07-414A-841F-709A173CE72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D847078-2E07-414A-841F-709A173CE72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C19FAD-C5A4-452A-B9A2-245BC86CB7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C19FAD-C5A4-452A-B9A2-245BC86CB7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25C921C-5C26-4CED-B3ED-BF7CF72F7552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25C921C-5C26-4CED-B3ED-BF7CF72F7552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D167776-890F-4EE6-BC76-6BB2C30E8A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D167776-890F-4EE6-BC76-6BB2C30E8A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB78ABC-590B-4DA6-9FB4-7448AB30B5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB78ABC-590B-4DA6-9FB4-7448AB30B5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E425EDA-7858-4929-8752-4CC44131880D}
+	EndGlobalSection
+EndGlobal
